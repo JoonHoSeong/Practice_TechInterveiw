@@ -32,3 +32,6 @@
 
 # License
 [MIT License](https://github.com/JoonHoSeong/Practice_TechInterveiw/blob/main/LICENSE)
+
+# Reference
+[gyoogle's tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer?tab=readme-ov-file)
