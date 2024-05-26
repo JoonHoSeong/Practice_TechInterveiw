@@ -2,9 +2,9 @@
 - 개발자가 꼭 알아야하는 or 알면 도움이 되는 개발 지식을 공유합니다.
 
 # Collaborator
-|[<img src="https://avatars.githubusercontent.com/u/87454608?v=4" width="100">](https://github.com/JoonHoSeong)| |  |  | |
+|[<img src="https://avatars.githubusercontent.com/u/87454608?v=4" width="100">](https://github.com/JoonHoSeong)|[<img src="https://avatars.githubusercontent.com/u/18757823?v=4" width="100">](https://github.com/ChoiWheatley)|  |  | |
 |-----------------------------------|---------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
-|[Joon Ho Seong](https://github.com/JoonHoSeong)| | | | |
+|[Joon Ho Seong](https://github.com/JoonHoSeong)|[최승현(Choi Wheatley)](https://github.com/ChoiWheatley)| | | |
 
 |  |  |  | | |
 |-----------------------------------|---------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
