@@ -1,4 +1,16 @@
 # Practices For Tech-Interview
+![GitHub Created At](https://img.shields.io/github/created-at/JoonHoSeong/Practice_TechInterveiw)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/JoonHoSeong/Practice_TechInterveiw)
+![GitHub last commit](https://img.shields.io/github/last-commit/JoonHoSeong/Practice_TechInterveiw)
+![GitHub License](https://img.shields.io/github/license/JoonHoSeong/Practice_TechInterveiw)
+![GitHub Repo stars](https://img.shields.io/github/stars/JoonHoSeong/Practice_TechInterveiw)
+![GitHub forks](https://img.shields.io/github/forks/JoonHoSeong/Practice_TechInterveiw)
+
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/JoonHoSeong/Practice_TechInterveiw)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/JoonHoSeong/Practice_TechInterveiw)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/JoonHoSeong/Practice_TechInterveiw)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/JoonHoSeong/Practice_TechInterveiw)
+
 - 개발자가 꼭 알아야하는 or 알면 도움이 되는 개발 지식을 공유합니다.
 
 # Collaborator
