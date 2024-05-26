@@ -48,6 +48,9 @@
 
 <br>
 
+# Qustion Lists
+1. [Qustion List 1](https://github.com/JoonHoSeong/Practice_TechInterveiw/blob/main/Qustions1.md)
+
 # License
 [MIT License](https://github.com/JoonHoSeong/Practice_TechInterveiw/blob/main/LICENSE)
 
