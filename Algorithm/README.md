@@ -1,1 +1,2 @@
-# 알아야 할 알고리즘
+# Technical Interview Content
+## Algorithm
