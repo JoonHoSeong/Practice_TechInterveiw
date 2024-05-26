@@ -27,8 +27,13 @@
 # Technical Interview Content
 ## CS(Computer Science)
 
+
+<br>
+
 ## Algorithm
 
+
+<br>
 
 # License
 [MIT License](https://github.com/JoonHoSeong/Practice_TechInterveiw/blob/main/LICENSE)
