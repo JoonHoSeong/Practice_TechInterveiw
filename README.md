@@ -6,9 +6,9 @@
 |-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
 |[JoonHoSeong](https://github.com/JoonHoSeong)|[최승현(Choi Wheatley)](https://github.com/ChoiWheatley)|[youngkwangjoo](https://github.com/youngkwangjoo)|[NohSungwoo](https://github.com/NohSungwoo)|[SIANNI](https://github.com/siangit)|
 
-<!-- |  |  |  | | |
-|-----------------------------------|---------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
-|  |  |  | | | -->
+|[<img src="https://avatars.githubusercontent.com/u/164370715?v=4" width="100">](https://github.com/Moon-Nights)|[<img src="https://avatars.githubusercontent.com/u/164334686?v=4" width="100">](https://github.com/Gomnonix)|
+|-----------------------------------|-----------------------------------|
+|[Moon-Nights](https://github.com/Moon-Nights)|[Gomnonix](https://github.com/Gomnonix)|
 
 # Rule
 ## Collaborate
@@ -17,6 +17,9 @@
 ## Commit
 - 날짜 + 주제 + 내용 + 상태
 `ex) 2024-05-24 [Algorithm] Sort [Add/Update/Delete]`
+
+## 정리내용 작성 방법
+- [작성 방법](https://github.com/JoonHoSeong/Practice_TechInterveiw/issues/1)
 
 ## Modifications
 - [Issue](https://github.com/JoonHoSeong/Practice_TechInterveiw/issues) 또는 [PR](https://github.com/JoonHoSeong/Practice_TechInterveiw/pulls)을 통해 알려주기
