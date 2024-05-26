@@ -11,6 +11,9 @@
 |  |  |  | | |
 
 # Rule
+## Collaborate
+- Feature Branch Workflow
+
 ## Commit
 - 날짜 + 주제 + 내용 + 상태
 `ex) 2024-05-24 [Algorithm] Sort [Add/Update/Delete]`
