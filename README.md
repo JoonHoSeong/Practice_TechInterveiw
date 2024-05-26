@@ -18,6 +18,9 @@
 - 날짜 + 주제 + 내용 + 상태
 `ex) 2024-05-24 [Algorithm] Sort [Add/Update/Delete]`
 
+## 정리내용 작성 방법
+- [작성 방법](https://github.com/JoonHoSeong/Practice_TechInterveiw/issues/1)
+
 ## Modifications
 - [Issue](https://github.com/JoonHoSeong/Practice_TechInterveiw/issues) 또는 [PR](https://github.com/JoonHoSeong/Practice_TechInterveiw/pulls)을 통해 알려주기
 
