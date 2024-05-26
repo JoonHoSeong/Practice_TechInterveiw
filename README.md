@@ -3,6 +3,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/JoonHoSeong/Practice_TechInterveiw)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JoonHoSeong/Practice_TechInterveiw)
 ![GitHub License](https://img.shields.io/github/license/JoonHoSeong/Practice_TechInterveiw)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JoonHoSeong/Practice_TechInterveiw&count_bg=%23D2F3FF&title_bg=%235EEAFF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
 ![GitHub Repo stars](https://img.shields.io/github/stars/JoonHoSeong/Practice_TechInterveiw)
 ![GitHub forks](https://img.shields.io/github/forks/JoonHoSeong/Practice_TechInterveiw)
 
