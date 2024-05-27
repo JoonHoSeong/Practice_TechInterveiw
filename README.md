@@ -19,9 +19,9 @@
 |-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
 |[JoonHoSeong](https://github.com/JoonHoSeong)|[최승현(Choi Wheatley)](https://github.com/ChoiWheatley)|[youngkwangjoo](https://github.com/youngkwangjoo)|[NohSungwoo](https://github.com/NohSungwoo)|[SIANNI](https://github.com/siangit)|
 
-|[<img src="https://avatars.githubusercontent.com/u/164370715?v=4" width="100">](https://github.com/Moon-Nights)|[<img src="https://avatars.githubusercontent.com/u/164334686?v=4" width="100">](https://github.com/Gomnonix)|[<img src="https://avatars.githubusercontent.com/u/66784492?v=4" width="100">](https://github.com/im-niber?tab=repositories)|[<img src="https://avatars.githubusercontent.com/u/164486991?v=4" width="100">]([dayeonkimm](https://github.com/dayeonkimm))|[<img src="https://avatars.githubusercontent.com/u/64734436?v=4" width="100">](https://github.com/yoonju977)|
-|-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
-|[Moon-Nights](https://github.com/Moon-Nights)|[Gomnonix](https://github.com/Gomnonix)|[GyuJae Jo](https://github.com/im-niber?tab=repositories)|[dayeonkimm](https://github.com/dayeonkimm)|[Grace_Song](https://github.com/yoonju977)|
+|[<img src="https://avatars.githubusercontent.com/u/164370715?v=4" width="100">](https://github.com/Moon-Nights)|[<img src="https://avatars.githubusercontent.com/u/164334686?v=4" width="100">](https://github.com/Gomnonix)|[<img src="https://avatars.githubusercontent.com/u/66784492?v=4" width="100">](https://github.com/im-niber?tab=repositories)|[<img src="https://avatars.githubusercontent.com/u/164486991?v=4" width="100">]([dayeonkimm](https://github.com/dayeonkimm))|[<img src="https://avatars.githubusercontent.com/u/64734436?v=4" width="100">](https://github.com/yoonju977)|[<img src="https://avatars.githubusercontent.com/u/84219820?v=4" width="100">](https://github.com/LSY310)|
+|-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|  
+|[Moon-Nights](https://github.com/Moon-Nights)|[Gomnonix](https://github.com/Gomnonix)|[GyuJae Jo](https://github.com/im-niber?tab=repositories)|[dayeonkimm](https://github.com/dayeonkimm)|[Grace_Song](https://github.com/yoonju977)|[LIM0310](https://github.com/LSY310)|
 
 
 # Rule
@@ -30,7 +30,7 @@
 
 ## Commit
 - 브랜치 : 주제명
-`ex) add Member`
+`ex) addMember`
 - 내용 : 날짜 + 주제 + 내용 + 상태
 `ex) 2024-05-24 [Algorithm] Sort [Add/Update/Delete]`
 
