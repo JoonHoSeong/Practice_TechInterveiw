@@ -19,9 +19,9 @@
 |-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
 |[JoonHoSeong](https://github.com/JoonHoSeong)|[최승현(Choi Wheatley)](https://github.com/ChoiWheatley)|[youngkwangjoo](https://github.com/youngkwangjoo)|[NohSungwoo](https://github.com/NohSungwoo)|[SIANNI](https://github.com/siangit)|
 
-|[<img src="https://avatars.githubusercontent.com/u/164370715?v=4" width="100">](https://github.com/Moon-Nights)|[<img src="https://avatars.githubusercontent.com/u/164334686?v=4" width="100">](https://github.com/Gomnonix)|
-|-----------------------------------|-----------------------------------|
-|[Moon-Nights](https://github.com/Moon-Nights)|[Gomnonix](https://github.com/Gomnonix)|
+|[<img src="https://avatars.githubusercontent.com/u/164370715?v=4" width="100">](https://github.com/Moon-Nights)|[<img src="https://avatars.githubusercontent.com/u/164334686?v=4" width="100">](https://github.com/Gomnonix)|[<img src="https://avatars.githubusercontent.com/u/66784492?v=4" width="100">](https://github.com/im-niber?tab=repositories)|
+|-----------------------------------|-----------------------------------|-----------------------------------|
+|[Moon-Nights](https://github.com/Moon-Nights)|[Gomnonix](https://github.com/Gomnonix)|[GyuJae Jo](https://github.com/im-niber?tab=repositories)|
 
 # Rule
 ## Collaborate
@@ -57,5 +57,3 @@
 # Reference
 [gyoogle's tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer?tab=readme-ov-file)
 [JaeYeopHan's Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
-
-test
