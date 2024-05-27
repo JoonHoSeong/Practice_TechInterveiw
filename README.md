@@ -30,7 +30,7 @@
 
 ## Commit
 - 브랜치 : 주제명
-`ex) add Member`
+`ex) addMember`
 - 내용 : 날짜 + 주제 + 내용 + 상태
 `ex) 2024-05-24 [Algorithm] Sort [Add/Update/Delete]`
 
