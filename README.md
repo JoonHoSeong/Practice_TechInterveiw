@@ -19,10 +19,10 @@
 |-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
 |[JoonHoSeong](https://github.com/JoonHoSeong)|[최승현(Choi Wheatley)](https://github.com/ChoiWheatley)|[youngkwangjoo](https://github.com/youngkwangjoo)|[NohSungwoo](https://github.com/NohSungwoo)|[SIANNI](https://github.com/siangit)|
 
-|[<img src="https://avatars.githubusercontent.com/u/164370715?v=4" width="100">](https://github.com/Moon-Nights)|[<img src="https://avatars.githubusercontent.com/u/164334686?v=4" width="100">](https://github.com/Gomnonix)|[<img src="https://avatars.githubusercontent.com/u/66784492?v=4" width="100">](https://github.com/im-niber?tab=repositories)|[<img src="https://avatars.githubusercontent.com/u/164486991?v=4" width="100">](
-dayeonkimm)|[<img src="https://avatars.githubusercontent.com/u/64734436?v=4" width="100">](https://github.com/yoonju977)|
-|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|[Moon-Nights](https://github.com/Moon-Nights)|[Gomnonix](https://github.com/Gomnonix)|[GyuJae Jo](https://github.com/im-niber?tab=repositories)|[Gomnonix](dayeonkimm)|[Grace_Song](https://github.com/yoonju977)|
+|[<img src="https://avatars.githubusercontent.com/u/164370715?v=4" width="100">](https://github.com/Moon-Nights)|[<img src="https://avatars.githubusercontent.com/u/164334686?v=4" width="100">](https://github.com/Gomnonix)|[<img src="https://avatars.githubusercontent.com/u/66784492?v=4" width="100">](https://github.com/im-niber?tab=repositories)|[<img src="https://avatars.githubusercontent.com/u/164486991?v=4" width="100">]([dayeonkimm](https://github.com/dayeonkimm))|[<img src="https://avatars.githubusercontent.com/u/64734436?v=4" width="100">](https://github.com/yoonju977)|
+|-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
+|[Moon-Nights](https://github.com/Moon-Nights)|[Gomnonix](https://github.com/Gomnonix)|[GyuJae Jo](https://github.com/im-niber?tab=repositories)|[dayeonkimm](https://github.com/dayeonkimm)|[Grace_Song](https://github.com/yoonju977)|
+
 
 # Rule
 ## Collaborate
